@@ -1,15 +1,15 @@
-#Image_processing
+# Image_processing
  "Image_processing" is a project that detects features of an image.
 
 2Files there are：
 - Detection (which is a simple image detection program)
 - Threshold_detection (which is the image detection by threshold value that you choose)
 
-#DEMO
+# DEMO
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
  
-#Features
+# Features
  
 "hoge"のセールスポイントや差別化などを説明する
  
