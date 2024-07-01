@@ -1,4 +1,5 @@
 # Image_processing
+
  "Image_processing" is a project that detects features of an image.
 
 2Files there are：
@@ -20,7 +21,7 @@
 * 
 * 
  
-#Installation
+# Installation
  
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
@@ -28,7 +29,7 @@ Requirementで列挙したライブラリなどのインストール方法を説
 pip install huga_package
 ```
  
-#Usage
+# Usage
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
@@ -38,23 +39,16 @@ cd examples
 python demo.py
 ```
  
-#Note
+# Note
  
 注意点などがあれば書く
  
-#Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
+# Author
+
+* Ryunosuke Sato
+* Tohoku University
  
 #License
-ライセンスを明示する
+
+"Image_processing" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
